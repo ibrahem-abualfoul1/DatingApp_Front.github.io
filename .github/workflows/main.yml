@@ -29,3 +29,5 @@ jobs:
 
       - name: Deploy to hosting (e.g., Firebase, Netlify)
         # Add your deployment steps here, if applicable
+      - name: Clear npm cache
+        run: npm cache clean --force
