@@ -16,7 +16,7 @@ exports.config = {
     browserName: 'chrome'
   },
   directConnect: true,
-  baseUrl: 'http://datingapp.somee.com/',
+  baseUrl: 'https://datingapp.somee.com/',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
