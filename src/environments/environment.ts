@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'http://datingapp.somee.com/api/',
-  hubUrl: 'http://datingapp.somee.com/hubs/'
+  apiUrl: 'https://datingapp.somee.com/api/',
+  hubUrl: 'https://datingapp.somee.com/hubs/'
 };
 
 /*
